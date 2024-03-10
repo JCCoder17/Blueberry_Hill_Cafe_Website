@@ -15,6 +15,22 @@ AS A
 I WANT TO
 SO THAT I CAN
 
+1. Hipster Heather
+As a coffee culture saavy person 
+I want to spend time around like minded people
+So that I can build community and feel comfortable in a familiar ambiance
+
+2. Nerdy Nate
+As an intellectual student
+I want to be able to study in a calm environment
+so I can motivate myself to study
+
+3. Connoseur Cole
+As a coffee connoseur,
+I want to enjoy high quality coffee
+So I can feel satisfied and add savored moments to my life.
+
+
 
 
 ```
